@@ -1,0 +1,22 @@
+X:1
+T:O Holy Night
+C:Adolphe Adam (1803-1856)
+O:France
+M:6/8
+L:1/8
+Q:3/8=100
+K:Cmaj
+V:1 clef=treble
+"C"E3 E2 E|G3- G2 G|"F"A2 A F2 A|"C"c6|G2 G E2 D|C3 E2 F|"G"G3 F2 D|"C"C6-|C4 z2|
+"C"z6|z6|"F"z6|"C"z6|z6|"Em"z6|"B"z6|"Em"z6|z3 z2D|
+"G"D6|B,3 D3|"C"E2 E E2 C|C3 C2 C|"G"D6|B,6|"C"C6|E3- E2 z||
+"Am"c6-|c2 z B2 A|"Em"B6-|B2 z B3|"Dm"d6-|d z A A2 A|"Am"c6-|c3 z2 c|
+"C"e6|"G"d3- d2 G|"C"c6-|"F"c2 z B2 A|"C"G6-|"G"G z G A2 G|"C"G6-|G2 z c3|
+"G"d6-|d2 z d3|"C"g6-|(2gf (2ed|(c3 c2) z|"G"B3 ~B3|c3 d3|c6-|c4 z2|]
+V:2 clef=treble
+z6|z6|z6|z6|z6|z6|z6|z6|z6|
+"C"E3 E2 E|G3- G2 G|"F"A2 A F2 A|"C"c6|G2 G ^F2 E|"Em"B3 G2 A|"B"B3 c2 B|"Em"E6-|E3 z2G|
+"G"G3 A3|D3 G3|"C"A2 G c2 E|A3 G2 G|"G"G3 A3|D3 G3|"C"A2 G c2 E|G3- G2 z||
+"Am"A6-|A2 z E3|"Em"E6-|E2 z  E3|"Dm"A6-|A z F F2 F|"Am"A6-|A3 z2 A|
+"C"c6|"G"B3- B2 D|"C"E6-|"F"F2 z F3|"C"E6|"G"D6|"C"C6-|C2 z G3|
+"G"B6-|B2 z G3|"C"e6-|(2ed (2cB|A3- A2 z|"G"G6|-G6|"C"E6-|E4 z2|]

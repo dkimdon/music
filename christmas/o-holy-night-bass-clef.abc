@@ -12,7 +12,7 @@ V:1 clef=bass
 "G"D,6|B,,3 D,3|"C"E,2 E, E,2 C,|C,3 C,2 C,|"G"D,6|B,,6|"C"C,6|E,3- E,2 z||
 "Am"C6-|C2 z B,2 A,|"Em"B,6-|B,2 z B,3|"Dm"D6-|D z A, A,2 A,|"Am"C6-|C3 z2 C|
 "C"E6|"G"D3- D2 G,|"C"C6-|"F"C2 z B,2 A,|"C"G,6-|"G"G, z G, A,2 G,|"C"G,6-|G,2 z C3|
-"G"D6-|D2 z D3|"C"G6-|(2GF (2ED|(C3 C2) z|"G"B,3 ~B,3|C3 D3|C6-|C4 z2|]
+"G"D6-|D2 z D3|"C"G6-|(2GF (2ED|(C3 C2) z|"G"B,3 ~B,3|C3 D3|"C"C6-|C4 z2|]
 V:2 clef=bass
 z6|z6|z6|z6|z6|z6|z6|z6|z6|
 E,3 E,2 E,|G,3- G,2 G,|A,2 A, F,2 A,|C6|G,2 G, ^F,2 E,|B,3 G,2 A,|B,3 C2 B,|E,6-|E,3 z2G,|

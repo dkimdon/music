@@ -10,8 +10,7 @@ V: P2
 V: P3
 V: P4
 K: G
-[V: P1] E | "Em" G B B B | "Am" (A c B) A | "Em" G3 A | B G E G | "Am" (A F E) D | "Em" E3 A | "Am" A E E F | "Em" (G2 F) E | "Bm" D3 G | "Am" A B "G" B B | "Am" (A c B) A | "Em" G3 "G" d | "D" d3 "Em" B | "Bm" B3 B | "Am" (A c B) A | "Em" G3 A | B G E G | "Am" (A F E) D | "Em" E3|]
+[V: P1] E | "Em" G B B B | "Am" (A c B) A | "Em" G3 A | B G E G | "Am" (A F E) D | "Em" E3 A | "Am" A E E F | "Em" (G2 F) E | "Bm" D3 G | "Am" A B "G"B B | "Am" (A c B) A | "Em" G3 "G" d | "D" d3 "Em" B | "Bm" B3 B | "Am" (A c B) A | "Em" G3 A | B G E G | "Am" (A F E) D | "Em" E3|]
 w: O come, O come, Em- man__ u el, And ran- som cap- tive Is-__ ra el, That mourns in lone- ly e-_ xile here Un- til the Son of God__ ap- pear. Re- joice! Re- joice! Em- man__ u el Shall come to thee, O Is-__ ra el.
-[V: P2]  E | E B, D G | G3 F | D3 D | D D C D | (E C B,) B, | B,3 (E/D/) | C A, E ^D | (E =D D) ^C | D3 B, | D D D G | G3 F | G3 G | F3 G | F3 G | G3 F | G3 F | G D C D | (E C B,) B, | B,3|]
-[V: P3]  G, | B, F, G, D | (E2 D) C | B,3 F, | G, G, G, B, | (A,2 G,) F, | G,3 A, | A, C B, A, | (G,2 A,) G, | F,3 G, | F, F, G, D | (E2 D) C | B,3 B, | A,3 E | D3 D | (E2 D) C | B,3 D | D G, G, B, | (A,2 G,) F, | G,3|]
-[V: P4]  E, | E, D, B,, G,, | (C, A,, B,,) D, | G,3 D, | G,, B,, C, B,, | (C, A,, B,,) B,, | E,3 (C,/B,,/) | A,, A, G, F, | (E, B,, A,,) A,, | F,3 G, | F, B,, G,, B,, | (C, A,, B,,) D, | G,,3 G, | D,3 E, | B,,3 G,, | (C, A,, B,,) D, | E,3 D, | G,, B,, C, B,, | (C, A,,) B,, B,, | E,3|]
+[V: P2]  E | G B2 d | e2 d c | B3 d | d2 e d | e3 d | e3 (e/d/) | c2 B ^d | (e =d2 ^c) | d3 B | c d3 | (e2  d )c | B3 g | f3 e | d3 d | g3 f | e d2 d | d2 e/f/ g  | a3 f | e3|]
+

@@ -10237,6 +10237,54 @@
           <velocity>33</velocity>
           <lid>8</lid>
           </Dynamic>
+        <InstrumentChange>
+          <Instrument>
+            <longName>Accordion</longName>
+            <shortName>Acc.</shortName>
+            <trackName>Accordion</trackName>
+            <minPitchP>36</minPitchP>
+            <maxPitchP>93</maxPitchP>
+            <minPitchA>36</minPitchA>
+            <maxPitchA>93</maxPitchA>
+            <instrumentId>keyboard.accordion</instrumentId>
+            <clef staff="2">F</clef>
+            <Articulation>
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="staccatissimo">
+              <velocity>100</velocity>
+              <gateTime>33</gateTime>
+              </Articulation>
+            <Articulation name="staccato">
+              <velocity>100</velocity>
+              <gateTime>50</gateTime>
+              </Articulation>
+            <Articulation name="portato">
+              <velocity>100</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="tenuto">
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="marcato">
+              <velocity>120</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="sforzato">
+              <velocity>120</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Channel>
+              <program value="21"/>
+              <synti>Fluid</synti>
+              </Channel>
+            </Instrument>
+          <lid>4467</lid>
+          <pos x="-5.16613" y="6.84742"/>
+          <text>Strings-7</text>
+          </InstrumentChange>
         <Slur id="227">
           <lid>2150</lid>
           <track>4</track>
@@ -10579,6 +10627,53 @@
           <velocity>49</velocity>
           <lid>87</lid>
           </Dynamic>
+        <InstrumentChange>
+          <Instrument>
+            <longName>Accordion</longName>
+            <shortName>Acc.</shortName>
+            <trackName>Accordion</trackName>
+            <minPitchP>36</minPitchP>
+            <maxPitchP>93</maxPitchP>
+            <minPitchA>36</minPitchA>
+            <maxPitchA>93</maxPitchA>
+            <instrumentId>keyboard.accordion</instrumentId>
+            <clef staff="2">F</clef>
+            <Articulation>
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="staccatissimo">
+              <velocity>100</velocity>
+              <gateTime>33</gateTime>
+              </Articulation>
+            <Articulation name="staccato">
+              <velocity>100</velocity>
+              <gateTime>50</gateTime>
+              </Articulation>
+            <Articulation name="portato">
+              <velocity>100</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="tenuto">
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="marcato">
+              <velocity>120</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="sforzato">
+              <velocity>120</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Channel>
+              <program value="21"/>
+              <synti>Fluid</synti>
+              </Channel>
+            </Instrument>
+          <lid>4469</lid>
+          <text>Strings-7</text>
+          </InstrumentChange>
         <Chord>
           <lid>88</lid>
           <durationType>quarter</durationType>
@@ -18874,6 +18969,54 @@
           </Rest>
         </Measure>
       <Measure number="7">
+        <InstrumentChange>
+          <Instrument>
+            <longName>Accordion</longName>
+            <shortName>Acc.</shortName>
+            <trackName>Accordion</trackName>
+            <minPitchP>36</minPitchP>
+            <maxPitchP>93</maxPitchP>
+            <minPitchA>36</minPitchA>
+            <maxPitchA>93</maxPitchA>
+            <instrumentId>keyboard.accordion</instrumentId>
+            <clef staff="2">F</clef>
+            <Articulation>
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="staccatissimo">
+              <velocity>100</velocity>
+              <gateTime>33</gateTime>
+              </Articulation>
+            <Articulation name="staccato">
+              <velocity>100</velocity>
+              <gateTime>50</gateTime>
+              </Articulation>
+            <Articulation name="portato">
+              <velocity>100</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="tenuto">
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="marcato">
+              <velocity>120</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="sforzato">
+              <velocity>120</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Channel>
+              <program value="21"/>
+              <synti>Fluid</synti>
+              </Channel>
+            </Instrument>
+          <lid>4468</lid>
+          <pos x="-2.75496" y="-1.46164"/>
+          <text>Horn-9</text>
+          </InstrumentChange>
         <Chord>
           <lid>74</lid>
           <durationType>whole</durationType>
@@ -20610,6 +20753,54 @@
           <lid>1217</lid>
           <accidental>2</accidental>
           </KeySig>
+        <InstrumentChange>
+          <Instrument>
+            <longName>Accordion</longName>
+            <shortName>Acc.</shortName>
+            <trackName>Accordion</trackName>
+            <minPitchP>36</minPitchP>
+            <maxPitchP>93</maxPitchP>
+            <minPitchA>36</minPitchA>
+            <maxPitchA>93</maxPitchA>
+            <instrumentId>keyboard.accordion</instrumentId>
+            <clef staff="2">F</clef>
+            <Articulation>
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="staccatissimo">
+              <velocity>100</velocity>
+              <gateTime>33</gateTime>
+              </Articulation>
+            <Articulation name="staccato">
+              <velocity>100</velocity>
+              <gateTime>50</gateTime>
+              </Articulation>
+            <Articulation name="portato">
+              <velocity>100</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="tenuto">
+              <velocity>100</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Articulation name="marcato">
+              <velocity>120</velocity>
+              <gateTime>67</gateTime>
+              </Articulation>
+            <Articulation name="sforzato">
+              <velocity>120</velocity>
+              <gateTime>100</gateTime>
+              </Articulation>
+            <Channel>
+              <program value="21"/>
+              <synti>Fluid</synti>
+              </Channel>
+            </Instrument>
+          <lid>4470</lid>
+          <pos x="-5.49785" y="-2.613"/>
+          <text>Harp-10</text>
+          </InstrumentChange>
         <Chord>
           <lid>1218</lid>
           <durationType>half</durationType>
@@ -22665,11 +22856,54 @@
             <lid>5</lid>
             <text><sym>unicodeNoteQuarterUp</sym> = 60</text>
             </Tempo>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
-            <lid>8</lid>
-            </Dynamic>
+          <InstrumentChange>
+            <Instrument>
+              <longName>Accordion</longName>
+              <shortName>Acc.</shortName>
+              <trackName>Accordion</trackName>
+              <minPitchP>36</minPitchP>
+              <maxPitchP>93</maxPitchP>
+              <minPitchA>36</minPitchA>
+              <maxPitchA>93</maxPitchA>
+              <instrumentId>keyboard.accordion</instrumentId>
+              <clef staff="2">F</clef>
+              <Articulation>
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="staccatissimo">
+                <velocity>100</velocity>
+                <gateTime>33</gateTime>
+                </Articulation>
+              <Articulation name="staccato">
+                <velocity>100</velocity>
+                <gateTime>50</gateTime>
+                </Articulation>
+              <Articulation name="portato">
+                <velocity>100</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="tenuto">
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="marcato">
+                <velocity>120</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="sforzato">
+                <velocity>120</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Channel>
+                <program value="21"/>
+                <synti>Fluid</synti>
+                </Channel>
+              </Instrument>
+            <lid>4467</lid>
+            <pos x="-5.61692" y="7.12754"/>
+            <text>Strings-7</text>
+            </InstrumentChange>
           <Slur id="301">
             <lid>2150</lid>
             <track>0</track>
@@ -23015,6 +23249,7 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <lid>87</lid>
+            <pos x="-1.53316" y="6.35679"/>
             </Dynamic>
           <Chord>
             <lid>88</lid>
@@ -27178,6 +27413,53 @@
             <base>20</base>
             <lid>1210</lid>
             </Harmony>
+          <InstrumentChange>
+            <Instrument>
+              <longName>Accordion</longName>
+              <shortName>Acc.</shortName>
+              <trackName>Accordion</trackName>
+              <minPitchP>36</minPitchP>
+              <maxPitchP>93</maxPitchP>
+              <minPitchA>36</minPitchA>
+              <maxPitchA>93</maxPitchA>
+              <instrumentId>keyboard.accordion</instrumentId>
+              <clef staff="2">F</clef>
+              <Articulation>
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="staccatissimo">
+                <velocity>100</velocity>
+                <gateTime>33</gateTime>
+                </Articulation>
+              <Articulation name="staccato">
+                <velocity>100</velocity>
+                <gateTime>50</gateTime>
+                </Articulation>
+              <Articulation name="portato">
+                <velocity>100</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="tenuto">
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="marcato">
+                <velocity>120</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="sforzato">
+                <velocity>120</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Channel>
+                <program value="21"/>
+                <synti>Fluid</synti>
+                </Channel>
+              </Instrument>
+            <lid>4470</lid>
+            <text>Harp-10</text>
+            </InstrumentChange>
           <Tuplet id="47">
             <lid>4157</lid>
             <normalNotes>2</normalNotes>
@@ -31253,6 +31535,12 @@
             <sigD>4</sigD>
             <showCourtesySig>1</showCourtesySig>
             </TimeSig>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            <lid>8</lid>
+            <pos x="0.189083" y="-1.8388"/>
+            </Dynamic>
           <Rest>
             <lid>15</lid>
             <durationType>measure</durationType>
@@ -31337,6 +31625,54 @@
             </Rest>
           </Measure>
         <Measure number="7">
+          <InstrumentChange>
+            <Instrument>
+              <longName>Accordion</longName>
+              <shortName>Acc.</shortName>
+              <trackName>Accordion</trackName>
+              <minPitchP>36</minPitchP>
+              <maxPitchP>93</maxPitchP>
+              <minPitchA>36</minPitchA>
+              <maxPitchA>93</maxPitchA>
+              <instrumentId>keyboard.accordion</instrumentId>
+              <clef staff="2">F</clef>
+              <Articulation>
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="staccatissimo">
+                <velocity>100</velocity>
+                <gateTime>33</gateTime>
+                </Articulation>
+              <Articulation name="staccato">
+                <velocity>100</velocity>
+                <gateTime>50</gateTime>
+                </Articulation>
+              <Articulation name="portato">
+                <velocity>100</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="tenuto">
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="marcato">
+                <velocity>120</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="sforzato">
+                <velocity>120</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Channel>
+                <program value="21"/>
+                <synti>Fluid</synti>
+                </Channel>
+              </Instrument>
+            <lid>4468</lid>
+            <pos x="-4.41461" y="-1.18152"/>
+            <text>Horn-9</text>
+            </InstrumentChange>
           <Chord>
             <lid>74</lid>
             <durationType>whole</durationType>
@@ -31363,6 +31699,54 @@
             </Chord>
           </Measure>
         <Measure number="9">
+          <InstrumentChange>
+            <Instrument>
+              <longName>Accordion</longName>
+              <shortName>Acc.</shortName>
+              <trackName>Accordion</trackName>
+              <minPitchP>36</minPitchP>
+              <maxPitchP>93</maxPitchP>
+              <minPitchA>36</minPitchA>
+              <maxPitchA>93</maxPitchA>
+              <instrumentId>keyboard.accordion</instrumentId>
+              <clef staff="2">F</clef>
+              <Articulation>
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="staccatissimo">
+                <velocity>100</velocity>
+                <gateTime>33</gateTime>
+                </Articulation>
+              <Articulation name="staccato">
+                <velocity>100</velocity>
+                <gateTime>50</gateTime>
+                </Articulation>
+              <Articulation name="portato">
+                <velocity>100</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="tenuto">
+                <velocity>100</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Articulation name="marcato">
+                <velocity>120</velocity>
+                <gateTime>67</gateTime>
+                </Articulation>
+              <Articulation name="sforzato">
+                <velocity>120</velocity>
+                <gateTime>100</gateTime>
+                </Articulation>
+              <Channel>
+                <program value="21"/>
+                <synti>Fluid</synti>
+                </Channel>
+              </Instrument>
+            <lid>4469</lid>
+            <pos x="-3.85294" y="-0.962426"/>
+            <text>Strings-7</text>
+            </InstrumentChange>
           <Rest>
             <lid>99</lid>
             <durationType>quarter</durationType>

@@ -137,6 +137,11 @@
         <Harmony>
           <root>17</root>
           </Harmony>
+        <Tempo>
+          <tempo>1.33333</tempo>
+          <followText>1</followText>
+          <text><sym>unicodeNoteQuarterUp</sym> = 80</text>
+          </Tempo>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -227,21 +232,56 @@
           <root>18</root>
           </Harmony>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>81</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>80</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -279,11 +319,24 @@
           <root>17</root>
           </Harmony>
         <Chord>
-          <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -380,6 +433,9 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -434,8 +490,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>17</root>
-          <base>21</base>
+          <root>21</root>
+          <name>m</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -447,8 +503,8 @@
         </Measure>
       <Measure number="11">
         <Harmony>
-          <root>18</root>
-          <name>sus4</name>
+          <root>20</root>
+          <name>m</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -468,8 +524,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>21</root>
-          <name>m</name>
+          <root>17</root>
+          <base>18</base>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -504,6 +560,10 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>21</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -511,6 +571,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -527,6 +590,10 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>

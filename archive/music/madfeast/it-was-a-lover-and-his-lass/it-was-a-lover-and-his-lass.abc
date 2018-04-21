@@ -1,0 +1,47 @@
+X: 1
+T:It was a lover and his lass
+C:Thomas Morley
+M:4/4
+L:1/4
+Q:1/4=180
+K:Gmaj
+V:1
+%%staves        1 2 3
+%%MIDI program 1 1
+%%MIDI program 2 2
+%%MIDI program 3 3
+%%MIDI drum dddd 33 33 33 33
+%%MIDI drumon
+G4 | z2 z
+%%MIDI drumoff
+G | B3/2 c/2 d d | c B A A/2 B/2 | c c/2 d/2 e e/2 =f/2|
+g3 =f/2 e/2 | d B/2 c/2 d2- | d c/2 B/2 c A|
+G4 | z2 z d | d d e d | c B A A|
+e2 ^c A | d2 B d | g2 e c | e d c B |
+d2 B G | c B A d | d/2 c/2 B/2 A/2 G g|
+g/2 =f/2 e/2 d/2 c e | e/2 d/2 c/2 B/2 A c | B3/2 B/2 A3/2 A/2|
+G G d2 | B2 z2 | z d g2| e c e2|
+d c2 B | d2 B G |c B A d| d/2 c/2 B/2 A/2 G g|
+g/2 =f/2 e/2 d/2 c e | e/2 d/2 c/2 B/2 A c | B3/2 B/2 A3/2 A/2 | G4 |]
+V:2
+G4 | z2 z
+G | G3/2 A/2 B A- | A G2 =F | E A3/2 G/2 c-|
+c/2 B/2 G/2 A/2 B d/2 c/2 | B/2 G/2 d2 c/2 B/2 | A G3/2 A/2 F|
+G3 B | A/2 G/2 G2 F | (G/2A/2) B c (B|e3/2) d/2 c/2 B/2 A-|
+A ^G A2 | z F G2 | B2 z c | c B A/2 G/2 (G-|
+G F) G B | A (G2 F) | G2 g g/2 =f/2|
+e/2 d/2 c2 c | c/2 B/2 A/2 G/2 F A-| A/2 G/2 G2 F|
+G B A2 | G G2 F | G2 z B | c c c2 |
+B A2 G-| G F G B | A (G2 F) | G2 g g/2 =f/2 |
+e/2 d/2 c2 c | c/2 B/2 A/2 G/2 F A-| A/2 G/2 G2 F | G4|]
+V:3
+G4 | z2 z
+G|G3 D/2E/2| F G D D| A, A,/2 B,/2 C C/2 D/2|
+E3/2 =F/2 G2- | G G,/2 A,/2 B, C | D G C D |
+G,3 G | F G D2 | G, G, C G | A E A, A | 
+E2 A,2 | z D G2 | G G, C2 | C (D/2E/2) =F G|
+D2 G, G | F (G D2) | G, G G/2 =F/2 E/2 D/2 |
+C2 C C- | C C D A, | E G D2 |
+G, G2 F | G G, D2 | G,2 z G, | C2 (C/2D/2) (E/2=F/2) |
+G A F G | D2 G, G | F (G D2) | G, G G/2 =F/2 E/2 D/2 |
+C2 C C- | C C D A, | E G D D | G,4 |]

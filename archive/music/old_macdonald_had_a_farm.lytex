@@ -1,0 +1,61 @@
+\documentclass[]{article}
+\usepackage{graphicx} 
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{lilypond}
+
+\version "2.7.40"
+\header {
+	composer = "Traditional"
+	footnotes = ""
+	tagline = ""
+	title = "Old McDonald Had a Farm"
+}
+
+wordsdefault = \lyricmode {
+	G G G D E E D B B A A G
+	G G G D E E D B B A A G
+	G G G G G G G G G G G G G G G G G G 
+	G G G D E E D B B A A G
+}
+
+voicedefault =  {
+	\time 4/4
+	\key g \major
+        g'4-3 g'4 g'4 d'4-1 e'4-2 e'4 d'2 b'4-5 b'4 a'4 a'4 g'1
+	\break
+        g'4 g'4 g'4 d'4 e'4 e'4 d'2 b'4 b'4 a'4 a'4 g'1
+	\break
+        g'4 g'4 g'2 g'4 g'4 g'2 g'8 g'8 g'4 g'8 g'8 g'4 g'8 g'8 g'8 g'8 g'4 g'4
+	\break
+        g'4 g'4 g'4 d'4 e'4 e'4 d'2 b'4 b'4 a'4 a'4 g'1
+	\bar "|."
+}
+
+\score{
+	<<
+		\set Score.barNumberVisibility = ##f
+		\context Staff="default"
+		{
+			\voicedefault 
+		}
+
+		\addlyrics {
+			\wordsdefault
+		} 
+	>>
+	\layout {
+	}
+	\midi {}
+}
+
+\end{lilypond}
+
+\begin{center}
+\includegraphics{Domestic_Goose.eps}
+\end{center}
+
+\end{document}
+

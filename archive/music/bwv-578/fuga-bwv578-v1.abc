@@ -1,0 +1,53 @@
+% fuga-bwv578.abc
+%
+% To typeset this file:
+%	abcm2ps -O= -c fuga-bwv578.abc
+% To make a MIDI file:
+%       abc2midi fuga-bwv578.abc -o fuga-bwv578.mid -RS
+%
+% reccmo@icking-music-archive.org: layout modification
+%
+X:434
+T:Fuga
+T:BWV 578
+C:Johann Sebastian Bach
+O:Germany
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:C
+L:1/16
+Q:1/4=69
+%%header "		$P / 6"
+% %MIDI program 1 58
+% %MIDI program 2 58
+% %MIDI program 3 58
+% %MIDI program 4 58
+%
+%%measurenb	0
+%%topmargin 2.0cm
+K:Gm
+V:1
+%%MIDI program 40
+G4d4B6A2|G2B2A2G2 ^F2A2D4|G2D2A2D2 B2AG A2D2|G2DG A2DA B2AG ADdc|
+BAGB AG^FA GDGA Bcd=e|=f=edf ed^ce d2A2d2e2|fgfg Pg3f/g/ agab agf=e|
+faga ^caga daga caga|fd^cd gdcd adcd gdcd|
+A2f2G2=e2 F2A2d2f2|_e2a2 z2 e2 d2g2 z2 d2|cBcd caga Bg^fg Af=ef|
+g8 z8|z8 Bdcd ^Fdcd| Gdcd ^FdcdB4c4|d4c4 z2 B2 z2 A2|z2 D2 GABG A2d2^c2=e2|
+abag f=ed^c d2 z2 b2 z2|=e2 z2 z2 a2 Ta8-|a16-|
+a8-agab agf=e|f8 z2 d2g2f2|_e8-e2c2f2e2|
+d4-dg^fg c4-cBAc|BAGB AG^FA GD=EF GDGA|BGBc dAdc B6A2|
+G2B2A2G2 ^F2A2D4|G2D2A2D2 B2AG A2D2|G2DG A2DA B2AG ADdc|
+BAGB AG^FA GBcd eBAG|^FABc dAG=F EGAB cGFE|DFGA BdcB Acde fgfe|
+dfed cBAc BFGA BcBc|d=ede Pe3d/e/ f_efg fedc|
+dfef Afef Bfef Afef|dBAB eBAB fBAB eBAB|
+BcdB edce dcde dcBd|cBcd cBAc BABc BAGB|
+A2f2 z2 _A2 G2e2 z2 G2|F2d2 z2F2 EGcB =AGFE|
+DEFG ABcA BFGA BcBc|d=ede Pe3d/e/ f=efg f2f2|
+Tf16-|f16-|fefg c3a babc' bagf|
+edef edcB agab agfe|dcde dcBA gfg_a gfed|c=Bcd cdec f4-f_agf|
+e8-ecde fg_af|=BcdB G2 z2 c4 g4|e6d2 c2e2d2c2|
+=B2d2G4c2G2d2G2|e2dc d2G2 c2Gc d2Gd|e2dc dGgf edce dc=Bd|
+cgeg ceG_B =AcAc FACE|Dfdf BdFA GBGB EGB,D|
+Cece Ac=EG ^FAFA DFAC|B,2G2A2^F2 G4 z4|
+GBAG dADc BdcB =fc=Fe|dfed gdGf =egfe aeAg|^f4g2a2b8-|b4=a8g4-|
+g4^f4g4 z4|z2 d2g2a2 baga ^fgfg|ag^f=e dcBA Bdcd ^Fdcd|
+Gdcd ^Fdcd BGFG cGFG|dG^FG cGFG B2g2A2^f2|Hg16|]

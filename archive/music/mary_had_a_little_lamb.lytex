@@ -1,0 +1,54 @@
+\documentclass[]{article}
+\usepackage{graphicx} 
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{lilypond}
+
+\version "2.7.40"
+\header {
+	composer = "Traditional"
+	footnotes = ""
+	tagline = ""
+	title = "Mary Had a Little Lamb"
+}
+
+wordsdefault = \lyricmode {
+	Ma -- ry had a lit -- tle lamb, lit -- tle lamb, lit -- tle lamb, Ma -- ry had a lit -- tle lamb whose fleece was white as snow
+}
+
+voicedefault =  {
+	\time 4/4
+	\key c \major
+	e'4-3    d'4    c'4    d'4   e'4    e'4    e'2   
+	d'4    d'4    d'2  e'4    g'4    g'2  
+	\break
+	e'4    d'4    c'4    d'4    e'4    e'4    e'4    e'4
+	d'4    d'4    e'4    d'4    c'1    
+	\bar "|."
+}
+
+\score{
+	<<
+		\set Score.barNumberVisibility = ##f
+		\context Staff="default"
+		{
+			\voicedefault 
+		}
+
+		\addlyrics {
+			\wordsdefault
+		} 
+	>>
+	\layout {
+	}
+	\midi {}
+}
+
+\end{lilypond}
+
+\includegraphics{Mary_had_a_little_lamb_2_-_WW_Denslow_-_Project_Gutenberg_etext_18546.eps}
+
+\end{document}
+

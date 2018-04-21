@@ -1,0 +1,82 @@
+% fuga-bwv578.abc
+%
+% To typeset this file:
+%	abcm2ps -O= -c fuga-bwv578.abc
+% To make a MIDI file:
+%       abc2midi fuga-bwv578.abc -o fuga-bwv578.mid -RS
+%
+% reccmo@icking-music-archive.org: layout modification
+%
+X:434
+T:Fuga
+T:BWV 578
+C:Johann Sebastian Bach
+O:Germany
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:C
+L:1/16
+Q:1/4=69
+%%header "		$P / 6"
+% %MIDI program 1 58
+% %MIDI program 2 58
+% %MIDI program 3 58
+% %MIDI program 4 58
+%
+%%staves 	2 | 4
+%%measurenb	0
+%%topmargin 2.0cm
+%%scale	  0.72
+%%rightmargin	  0cm
+K:Gm
+V:2
+%%MIDI program 58
+Z3|
+z16{G2DG A2DA B2AG ADdc} |z16{ BAGB AG^FA GDGA Bcd=e} |D4A4F6=E2|D2F2=E2D2 ^C2E2
+A,4|D2A,2=E2A,2 F2ED E2A,2|D2A,D =E2A,E F2ED EA,AG|
+F=EDF ED^CE DA,DE FGA=B|c_Bcd cBAc BABc BAGB|A2G2^F2D2
+G4 z4|z2 D2G2A2 BcBc Pc3B/c/|dcd_e dcBA D2 z2 C2 z2|
+D2 z2 C2 z2 z G^FG z GFG|zG^FG z GFG D4C4|B,4 z4 z8|
+z16|z16|z16|
+z16|z2 A2d2c2 B8-|B2G2c2B2 A8-|
+A4G8^F4|G2 z2 z4 z8|z16|
+z16|z16|z16|
+z16|z16|z8
+z8|B,4F4D6C2|B,2D2C2B,2 A,2C2 z2 F2|
+F16-|F16-|
+F8 z8|z16|
+z16|z16|
+z16|z16|
+z16|z16|z8 z2 F2B2A2|
+G8-G2C2A2G2|F8-F2B,2G2F2|E8-EEDC=B,4|
+C4 z4 z2 C2_A2F2-|F4-FFED EDCE DC=B,D|CG,CD EFEF GECE _AFGA|
+DEDC =B,2D2 G,G,F,G, =B,,G,F,G,|C,G,F,G, =B,,G,F,G, E,C=B,C F,CB,C|G,C=B,C G,=B,A,B, G,2G2 FEDF|
+E4 z4 z2 C2=A,2F,2|B,8-
+B,2B,2G,2E,2|A,8-A,2A,2^F,2D,2|G,4 z4 G,B,A,G, DA,D,C|
+B,2D2A,2D2- D2G2C2=F2-|F2F2D2G2-
+G2G2=E2A2-|A_edc BdAd G_ag=f gfed|e8d8|
+c8BdcB ABGA|BcBc d_edc B2d2c2B2|A4 z2 D2 D8-|
+D16-|D8-D2E2 E2D2|HD16|]
+V:4
+%%MIDI program 58
+Z3|z16|z16|z16|z16|z16|z16|
+z16|z16|z16|z16|z16|
+z16|z16|z8 D,4A,,4|
+F,,6=E,2 D,2F,,2E,2D,2|^C,2=E,2A,,4D,2A,,2E,2A,,2|F,,2=E,D, E,2A,,2 D,2A,,D, E,2A,,E,|
+F,,2=E,D, E,2A,,2 D,2G,,2A,,4|D,4 z4 z8|z16|
+z16|z16|z8 z2 G,,2G,,2=F,,2|
+_E,2 z2 _E,2 z2 D,2D,2D,4-|D,16-|D,16-|
+D,8-D,4C,4-|C,4B,,8A,,4|B,,2A,,2G,,4
+F,,4 z4|z16|z16|
+z16|z16|
+z16|z16|
+z16|z16|
+B,,4F,,4D,6C,2|B,,2D,2C,2B,,2 A,,2C,2F,,4|
+B,,2F,,2C,2F,,2 D,2C,B,, C,2F,,2|B,,2F,,B,, C,2F,,C, D,2C,B,, C,2F,,2|D,2E,2F,,2F,,2 B,,4 z4|
+C,4 z4 F,,4 z4|B,,4 z4 E,4 z4|_A,,4 z4 D,4G,,4|
+C,4 z4 F,,4 z4|G,,16|C,2G,,2C,2D,2E,4F,,4|
+G,,4 z4 z8|z16|z8 C,2E,2F,,2G,,2|
+C,4 z4 z8|z16|z16|z16|
+z16|z16|z16|z16|
+z8G,,4D,4|B,,6A,,2 G,,2B,,2A,,2G,,2|^F,,2A,,2D,4G,,2D,2A,,2D,2|
+B,,2A,,G,, A,,2D,2 G,,2D,G,, A,,2D,A,,|B,,2A,,G,, A,,2D,2 G,,2E,2C,2D,2|HG,,16|]
+

@@ -1,0 +1,18 @@
+X:1
+Q:1/2=85
+T: Arbor and Bella
+C: David Kimdon
+M:2/2
+L:1/8
+K:Bm
+%%staves 	{1  2 }
+V:1
+|:"Bm"Bc2B dB f2|Be2Bd2c2|"G"Bd2e fgf2|d2B2 Bcde|
+"D"fdefa2g2|ff2f fed2|"A"e2e2edcA|"Bm"B8:|
+|:"G"gf2g gfed|"A7"ecea- ag2f|"D"f2ef edcd|"Bm"B2-B c-c2d2|
+"Em"ed2e- eedc|"G"BA2B- BGAB|"A"c2c2dcBA|"Bm"B8:|
+V:2
+|:B,,2B,2F,,2B,2|B,,2B,2!2!B,,2A,,2|G,,2G,2D,,2G,2|G,,2G,2!4!!tenuto!B,,2!2!!tenuto!C,,2|
+D,,2D,2A,,2D,2|D,,2D,2!3!!tenuto!C,,2!tenuto!B,,2|A,,2A,2E,,2A,2|B,,2B,2F,,2B,2:|
+|:G,,2G,2D,,2G,2|A,,2A,2E,,2A,2|D,,2D,2A,,2D,2|B,,2B,2F,,2B,2|
+E,,2E,2B,,2E,2|G,,2G,2D,,2G,2|A,,2A,2E,,2A,2|B,,2B,2F,,2B,2:|

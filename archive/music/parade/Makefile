@@ -3,13 +3,16 @@ all: score.pdf melody.pdf treble2.pdf treble2-bflat.pdf melody-bflat.pdf bass.pd
 	timidity score.midi
 
 %.ps: %.abc
-	abcm2ps +Q -O = $*.abc
+	abcm2ps -O = $*.abc
 
 %.abc: %.notes
 	(cat header.abc $*.notes) > $*.abc
 
 %-bflat.abc: %.abc
 	abc2abc $*.abc -t 2  > $*-bflat.abc
+
+%-viola.abc: %.abc
+	abc2abc $*.abc -t -12  > $*-viola.abc
 
 score.abc: header.abc melody.notes treble2.notes bass.notes
 	(cat header.abc; echo "V: melody"; cat melody.notes; echo "V: treble2"; cat treble2.notes; echo "V: bass"; cat  bass.notes) > score.abc

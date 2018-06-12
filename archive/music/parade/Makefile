@@ -5,14 +5,20 @@ all: score.pdf melody.pdf treble2.pdf treble2-bflat.pdf melody-bflat.pdf bass.pd
 %.ps: %.abc
 	abcm2ps -O = $*.abc
 
+%.midi: %.abc
+	abc2midi $*.abc -i $*.midi
+
 %.abc: %.notes
 	(cat header.abc $*.notes) > $*.abc
 
 %-bflat.abc: %.abc
 	abc2abc $*.abc -t 2  > $*-bflat.abc
 
+%-f.abc: %.abc
+	abc2abc $*.abc -t -5  > $*-f.abc
+
 %-viola.abc: %.abc
-	abc2abc $*.abc -t -12  > $*-viola.abc
+	abc2abc $*.abc > $*-viola.abc
 
 score.abc: header.abc melody.notes treble2.notes bass.notes
 	(cat header.abc; echo "V: melody"; cat melody.notes; echo "V: treble2"; cat treble2.notes; echo "V: bass"; cat  bass.notes) > score.abc

@@ -12,7 +12,7 @@ V:1 clef=treble
 "G"z6|z6|"C"z6|z6|"G"z6|z6|"C"z6|z6||
 "Am"c3d3|e6|"Em"e3 b2 b|b6|"Dm"d3 e3|f2 d d2 d|"Am"e6-|e3 z2 c|
 "C"g6-|"G"g3-g2 B|"C"c6-|"F"c2 z B2 A|"C"G6-|"G"G z G A2 G|"C"E6-|E2 z E3|
-"G"G6-|G2 z B3|"C"c3G3-|(2GF (2ED|"F"(F3 F2) z|"G"B3 d3|g6|"C"c'6-|c'4 z2|]
+"G"G6-|G2 z B3|"C"c6-|c6|"F"(F3 F2) z|"G"B6-|B3g3|"C"c'6-|c'4 z2|]
 V:2 clef=bass
 E,3 E,2 E,|G,3- G,2 G,|A,2 A, F,2 A,|C6|G,2 G, E,2 D,|C,3 E,2 F,|G,3 F,2 D,|C,6-|C,4 z2|
 z6|z6|z6|z6|z6|z6|z6|z6|z3 z2D,|
